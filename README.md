@@ -8,9 +8,9 @@ Just place this [script to Google Spreadsheet app](https://developers.google.com
 =youtrack(domain, token, author, from, project, timezone)
 ```
 
-- domain - domain name your youtrack _youtrack.xxxxx.xx_ without protocol
+- domain - domain name your youtrack __youtrack.xxxxx.xx__ without protocol
 - token - token your youtrack user with reading access [instruction](https://www.jetbrains.com/help/youtrack/standalone/Manage-Permanent-Token.html)
 - author - developer username for getting tracked hours
-- from - month for import 01.05.2019, need set date format for cell _dd.mm.yyyy_
+- from - month for import 01.05.2019, need set date format for cell __dd.mm.yyyy__
 - project - [project ID](https://www.jetbrains.com/help/youtrack/standalone/Configuring-a-Project.html)
-- timezone - timezone in GMT format _GMT+3_
+- timezone - timezone in GMT format __GMT+3__
